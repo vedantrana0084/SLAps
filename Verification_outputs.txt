@@ -1,0 +1,15 @@
+Verification report for the three programs
+
+Program: sum of natural numbers
+Dafny program verifier finished with 2 verified, 0 errors
+sum of first 5 natural numbers is 15
+
+
+Program: Factorial
+Dafny program verifier finished with 2 verified, 0 errors
+6 factorial is 720%  
+
+
+Program: fibonacci
+Dafny program verifier finished with 2 verified, 0 errors
+fibonacci number 3 is 2%   
